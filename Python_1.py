@@ -17,3 +17,4 @@ X = torch.arange(10).reshape(2,5)
 print(X)
 Y = F.one_hot(X.T, 20).cuda()
 print(Y.shape)
+78
