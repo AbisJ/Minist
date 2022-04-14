@@ -1,0 +1,2 @@
+# Minist Recognize by Pytorch
+### This is a practice of pytorch, and we just build a net of two hidden layers to verify simple pytorch functionality, and hope it helps if you are new to pytorch like me.
